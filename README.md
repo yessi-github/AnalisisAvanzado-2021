@@ -1,6 +1,6 @@
 # AnalisisAvanzado-2021
 ![Tecnologico de Tijuana](https://upload.wikimedia.org/wikipedia/commons/2/2e/ITT.jpg)
-![Tecnologico de Tijuana](https://tijuana.tecnm.mx/wp-content/uploads/2015/05/SISTEMAS-COMPUTACIONALES_LOGOTIPO.png)
+![Tecnologico de Tijuana](https://toluca.tecnm.mx/wp-content/uploads/logos/new-logo-tecnm.png)
 
 # :pencil: Información 
 ---
@@ -16,14 +16,15 @@
 
 *Nombre del equipo:* Centurión 
 
-# Indice :clipboard: 
+# :clipboard: Indice 
 ---
-## Unidad 1 :page_facing_up:
+## :page_facing_up: Unidad 1 
+    [C0.1_IntegrarEquipoDeTrabajo](https://docs.google.com/document/d/1MnBzWIb03Xx1ObUHhBGXW-1zaSSherMXrVJu18MeYIM/edit?usp=sharing)
 
-## Unidad 2 :page_facing_up:
+## :page_facing_up: Unidad 2 
 
-## Unidad 3 :page_facing_up:
+## :page_facing_up: Unidad 3 
 
-## Unidad 4 :page_facing_up:
+## :page_facing_up: Unidad 4 
 
-## Unidad 5 :page_facing_up:
+## :page_facing_up: Unidad 5 
