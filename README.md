@@ -2,7 +2,7 @@
 ![Tecnologico de Tijuana](https://upload.wikimedia.org/wikipedia/commons/2/2e/ITT.jpg)
 ![Tecnologico de Tijuana](https://tijuana.tecnm.mx/wp-content/uploads/2015/05/SISTEMAS-COMPUTACIONALES_LOGOTIPO.png)
 
-# Información
+# :pencil: Información 
 ---
  *Nombre del alumno:*  Orihuela Castillo Yessica
 
