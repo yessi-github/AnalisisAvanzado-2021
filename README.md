@@ -1,6 +1,6 @@
 # AnalisisAvanzado-2021
 ![Tecnologico de Tijuana](https://upload.wikimedia.org/wikipedia/commons/2/2e/ITT.jpg)
-![Tecnologico de Tijuana](https://drive.google.com/file/d/14WLHtsQG7iAnRhqhQyrIFMBOhVNwrc5l/view?usp=sharing)
+![Tecnologico de Tijuana](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tijuana.tecnm.mx%2Ftag%2Fconvocatorias-de-proyectos-tecnm%2F&psig=AOvVaw1Mrdp7FiGMinXY6-iTq9Sh&ust=1614211841299000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCICgt_Cdge8CFQAAAAAdAAAAABAJ)
 
 # :pencil: Información 
 ---
