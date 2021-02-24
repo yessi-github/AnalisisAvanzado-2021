@@ -1,6 +1,6 @@
 # AnalisisAvanzado-2021
 ![Tecnologico de Tijuana](https://upload.wikimedia.org/wikipedia/commons/2/2e/ITT.jpg)
-![Tecnologico de Tijuana](https://bdelrio.tecnm.mx/conocenos/identidad/icon_tecnm.jpg)
+![Tecnologico de Tijuana](https://www.tijuana.tecnm.mx/wp-content/uploads/2020/03/LOGO-TecNM-VERTICAL_DIGITAL-Azul.jpg)
 
 # :pencil: Información 
 ---
