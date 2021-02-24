@@ -4,13 +4,13 @@
 
 # :pencil: Información 
 ---
- *Nombre del alumno:*  Orihuela Castillo Yessica
+*Nombre del alumno:*  Orihuela Castillo Yessica
 
- *Numero de control:*  16212054
+*Numero de control:*  16212054
 
- *Carrera:*  Ing. en Sistemas Computacionales
+*Carrera:*  Ing. en Sistemas Computacionales
 
- *Nombre del maestro:*  Enriquez Alvarez Jaime Leonardo 
+*Nombre del maestro:*  Enriquez Alvarez Jaime Leonardo 
 
 *Materia:*  Analisis Avanzado De Software
 
