@@ -1,5 +1,4 @@
 # AnalisisAvanzado-2021
-![Tecnologico de Tijuana](https://upload.wikimedia.org/wikipedia/commons/2/2e/ITT.jpg)
 ![Tecnologico de Tijuana](https://sites.google.com/a/tectijuana.edu.mx/posgrado-con-la-industria/_/rsrc/1525283248146/config/customLogo.gif?revision=3)
 
 # :pencil: Información 
