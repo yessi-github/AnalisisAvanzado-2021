@@ -1,4 +1,4 @@
-# AnalisisAvanzado-2021
+# Analisis Avanzado de Software
 ![Tecnologico de Tijuana](https://sites.google.com/a/tectijuana.edu.mx/posgrado-con-la-industria/_/rsrc/1525283248146/config/customLogo.gif?revision=3)
 
 # :pencil: Información 
