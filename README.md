@@ -19,7 +19,6 @@
 ---
 ## :file_folder: Unidad 1 
 [C0.1_IntegrarEquipoDeTrabajo](PDFs/C0.1_IntegrarEquiposdeTrabajo_Yessica Orihuela.pdf)
-    
 ## :file_folder: Unidad 2 
 
 ## :file_folder: Unidad 3 
