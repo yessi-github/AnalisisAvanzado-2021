@@ -18,7 +18,7 @@
 # :clipboard: Indice 
 ---
 ## :file_folder: Unidad 1 
-[C0.1_IntegrarEquipoDeTrabajo](https://docs.google.com/document/d/1WRnxjKMl25PxW-Pk5uO39c-yFJzDmQeusntdyTQTdYw/edit?usp=sharing)
+[C0.1_IntegrarEquipoDeTrabajo](PDFs/C0.1_IntegrarEquiposdeTrabajo_Yessica Orihuela.pdf)
     
 ## :file_folder: Unidad 2 
 
