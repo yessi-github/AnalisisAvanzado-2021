@@ -18,6 +18,7 @@
 # :clipboard: Indice 
 ---
 ## :file_folder: Unidad 1 
+<<<<<<< HEAD
 [C0.1_Integrar_Equipo_De_Trabajo](PDFs/C0.1_IntegrarEquiposdeTrabajo_Yessica Orihuela.pdf)
 [C0.2_Tipo_De_Sistema_Desarrollar](PDFs/C0.1_IntegrarEquiposdeTrabajo_Yessica Orihuela.pdf)
 ## :file_folder: Unidad 2 
