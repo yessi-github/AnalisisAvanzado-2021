@@ -18,9 +18,10 @@
 # :clipboard: Indice 
 ---
 ## :file_folder: Unidad 1 
-:pushpin:[C0.1_Integrar_Equipo_De_Trabajo](PDFs/C0.1_IntegrarEquiposdeTrabajo_YessicaOrihuela.pdf)  
-:pushpin:[C0.2_Tipo_De_Sistema_Desarrollar](BLOGs/C0.2_Tipo_De_Sistema_Desarrollar.md)  
-:pushpin:[C0.3_Diagrama_De_Flujo_Del_Proceso](BLOGs/c0.3_DiagramaFlujo_Proceso.md)
+:pushpin:[C0.1_Integrar equipo de Trabajo](PDFs/C0.1_IntegrarEquiposdeTrabajo_YessicaOrihuela.pdf)  
+:pushpin:[C0.2_Tipo de Sistema a desarrollar](BLOGs/C0.2_Tipo_De_Sistema_Desarrollar.md)  
+:pushpin:[C0.3_Diagrama De Flujo del Proceso](BLOGs/c0.3_DiagramaFlujo_Proceso.md)  
+:pushpin:[A0.1_Recopilación de datos por medio de la entrevista](BLOGs\A0.1_Recopilacion_Entrevista.md)
 ## :file_folder: Unidad 2 
 
 ## :file_folder: Unidad 3 
