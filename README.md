@@ -21,7 +21,8 @@
 :pushpin:[C0.1_Integrar equipo de Trabajo](PDFs/C0.1_IntegrarEquiposdeTrabajo_YessicaOrihuela.pdf)  
 :pushpin:[C0.2_Tipo de Sistema a desarrollar](BLOGs/C0.2_Tipo_De_Sistema_Desarrollar.md)  
 :pushpin:[C0.3_Diagrama De Flujo del Proceso](BLOGs/c0.3_DiagramaFlujo_Proceso.md)  
-:pushpin:[A0.1_Recopilación de datos por medio de la entrevista](BLOGs/A0.1_Recopilacion_Entrevista.md)
+:pushpin:[A0.1_Recopilación de datos por medio de la entrevista](BLOGs/A0.1_Recopilacion_Entrevista.md)  
+:pushpin:[C1.1_Objetivo general y especificos ](BLOGs\C1.1_ObjetivoGeneral_Especificos.md)
 ## :file_folder: Unidad 2 
 
 ## :file_folder: Unidad 3 
