@@ -24,7 +24,7 @@
 :pushpin:[A0.1_Recopilación de datos por medio de la entrevista](BLOGs/A0.1_Recopilacion_Entrevista.md)  
 :pushpin:[C1.1_Objetivo general y especificos](BLOGs/C1.1_ObjetivoGeneral_Especificos.md)  
 :pushpin:[C1.2_Acta constitutiva](BLOGs/C1.2_ActaConstitutiva.md)  
-:pushpin:[C1.2_Acta constitutiva](BLOGs/C1.3_RequsitosDelSistema.md)
+:pushpin:[C1.3_Requisitos del sistema](BLOGs/C1.3_RequsitosDelSistema.md)
 ## :file_folder: Unidad 2 
 
 ## :file_folder: Unidad 3 
