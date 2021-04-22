@@ -26,7 +26,7 @@
 :pushpin:[C1.2_Acta constitutiva](BLOGs/C1.2_ActaConstitutiva.md)  
 :pushpin:[C1.3_Requisitos del sistema](BLOGs/C1.3_RequsitosDelSistema.md)  
 :pushpin:[A1.0_Consolidación del acta constitutiva](BLOGs/A1.0_ConstitutiveAct_Project.md)  
-:pushpin:[C1.4 UML Diagramas de secuencia](BLOGs/C1.4_UML_Casos_de_uso_secuencia_clases.md)
+:pushpin:[C1.4_Modelado de requisitos a través de diagramas de comportamiento](BLOGs/C1.4_UML_Casos_de_uso_secuencia_clases.md)
 ## :file_folder: Unidad 2 
 
 ## :file_folder: Unidad 3 
