@@ -29,8 +29,9 @@
 :pushpin:[C1.4_Modelado de requisitos a través de diagramas de comportamiento](BLOGs/C1.4_UML_Casos_de_uso_secuencia_clases.md)  
 :pushpin:[C1.5_Modelado de requisitos a través de diagramas estructurados](BLOGs/C1.5.md)  
 :pushpin:[A1.1_Modelado de requisitos a través de diagramas UML](BLOGs/A1.1_requirementsModeling_UML.md)  
-:pushpin:[A1.1_Modelado de requisitos a través de diagramas UML](BLOGs/C2.1.md) 
-## :file_folder: Unidad 2 
+
+## :file_folder: Unidad 2   
+:pushpin:[C2.1_Modelado de requisitos a través de diagramas UML](BLOGs/C2.1.md) 
 
 ## :file_folder: Unidad 3 
 
