@@ -32,7 +32,7 @@
 
 ## :file_folder: Unidad 2   
 :pushpin:[C2.1_Especificación de Requerimientos Funcionales](BLOGs/C2.1.md)  
-:pushpin:[A2.1_Especificación de Requerimientos Funcionales](PDFs/A2.1_Requirements_Specification_and_documentation.pdf) 
+:pushpin:[A2.1_Especificación de requisitos y documentación](PDFs/A2.1_Requirements_Specification_and_documentation.pdf) 
 
 ## :file_folder: Unidad 3 
 
