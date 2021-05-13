@@ -31,7 +31,8 @@
 :pushpin:[A1.1_Modelado de requisitos a través de diagramas UML](BLOGs/A1.1_requirementsModeling_UML.md)  
 
 ## :file_folder: Unidad 2   
-:pushpin:[C2.1_Especificación de Requerimientos Funcionales](BLOGs/C2.1.md) 
+:pushpin:[C2.1_Especificación de Requerimientos Funcionales](BLOGs/C2.1.md)  
+:pushpin:[A2.1_Especificación de Requerimientos Funcionales](BLOGs/A2.1_Requirements_specification_and_documentation.md) 
 
 ## :file_folder: Unidad 3 
 

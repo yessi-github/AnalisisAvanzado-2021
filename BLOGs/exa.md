@@ -1,0 +1,80 @@
+|📁 **Requisito RFN-01: Autenticación**  |
+|:----|
+| **Detalle:** El usuario deberá acceder a la plataforma por medio de una contraseña. <br> 
+|**Precondición:** <br> :closed_book: El usuario debe tener asignado un Id de usuario y una contraseña y asignados los permisos por el administrador. <br>  |
+|**Secuencia normal** <br> :one: El usuario debe ingresar sus credenciales <br> :two:El usuario debe presionar el botón "Sign In" <br> :three: El sistema verificará si las credenciales son válidas. <br> :four: Si el paso 3 se completa se logra entrar al sistema.<br>
+|**Post-condición** <br> :closed_book: El sistema redirige al usuario a la página principal de la plataforma
+|**Excepciones** <br> :one: Si la contraseña es incorrecta se debe informar al usuario. :two: El sistema deberá mostrar un mensaje y volver a solicitar el llenado del formulario de login. <br>  
+|**Prioridad** <br> :white_check_mark: Alta/Esencial :black_square_button: Media/Deseado :black_square_button: Baja/Opcional <br>  |
+
+|📁 **Requisito RFN-02: Creación de tópicos**  |
+|:----|
+| **Detalle:** Se le permitirá al usuario crear tópicos y estos publicarse para el resto de usuarios. <br> 
+|**Precondición:** <br> :closed_book: El usuario debe iniciar sesión previamente para acceder a esta funcionalidad. <br>  |
+|**Secuencia normal** <br> :one: Se debe hacer clic al menú "Nuevo tópico"  <br> :two:Se deben seleccionar los archivos que se desean agregar al tópico  <br> :three: Se presiona el botón "Crear tópico" <br>
+|**Post-condición** <br> :closed_book: El sistema permite al usuario visualizar su tópico recién añadido.
+|**Excepciones** <br> :one: Los archivos deben ser tipos de archivos válidos :two: El sistema deberá mostrar un mensaje y volver a solicitar los archivos correctos. <br>  |
+
+|📁 **Requisito RFN-03: Catálogo de tópicos**  |
+|:----|
+| **Detalle:** Al redactar un usuario un tópico, se le ofrecerá un catálogo con tópicos relacionados y existentes. <br> 
+|**Precondición:** <br> :closed_book: El usuario debe iniciar sesión previamente para acceder a esta funcionalidad. <br>  |
+|**Secuencia normal** <br> :one: Se debe hacer clic al icono :mag_right: (lupa)  <br> :two:Se deben ingresar las palabras clave relacionadas al tema de interés  <br> :three: la plataforma arroja tópicos similares <br> :four: El usuario puede elegir uno de los tópicos desplegados. <br>
+|**Post-condición** <br> :closed_book: El usuario puede elegir uno de lo tópicos o regresar a realizar mas búsquedas.
+|**Excepciones** <br> :one: Si el usuario ingresa caracteres no válidos se mostrará un mensaje <br> :two: Si el usuario ingresa un tópico no encontrado aparecerá un mensaje "No se encontraron resultados" <br>  |
+
+|📁 **Requisito RFN-04: Añadir archivos**  |
+|:----|
+| **Detalle:** Permitir que a los tópicos que se publiquen puedan además anexar fotos, videos o presentaciones con un limite máximo de tamaño y duración. <br> 
+|**Precondición:** <br> :closed_book: El usuario debe acceder al menú "Nuevo tópico" previamente para acceder a esta funcionalidad. <br>  |
+|**Secuencia normal** <br> :one: Se debe hacer clic al botón "Añadir archivos"  <br> :two:Se deben seleccionar del ordenador los archivos deseados  <br> :three: Se suben los archivos a la plataforma <br>
+|**Post-condición** <br> :closed_book: El usuario puede elegir uno de lo tópicos o regresar a realizar mas búsquedas.<br>
+|**Excepciones** <br> :one: Los archivos deben ser tipos de archivos válidos (PDF,pptx,mp4,png,jpg) :two: Los archivos no deben tener un tamaño mayor a 50 mb. <br>|
+
+|📁 **Requisito RFN-05: Tamaño de tópicos**  |
+|:----|
+| **Detalle:** Los tópicos que se redacten tienen un limite de caracteres de igual forma los archivos multimedia que se deseen añadir en el. <br> 
+|**Precondición:** <br> :closed_book: El usuario debe ingresar al menú "Añadir archivos" previamente para acceder a esta funcionalidad y haber seleccionado un archivo. <br>  |
+|**Secuencia normal** <br> :one: Se debe hacer clic al botón "Añadir archivos"  <br> :two:Los archivos no deben ser mayor a 50 mb  <br> :three: Se suben los archivos a la plataforma <br>
+|**Post-condición** <br> :closed_book: El usuario puede elegir mas archivos o publicar el actualmente hecho. <br>
+|**Excepciones** <br> :one: Los archivos deben ser tipos de archivos válidos :two: La descripción del tópico no debe ser mayor a 1000 caracteres. <br>|
+
+|📁 **Requisito RFN-06: Clasificación de tópicos**  |
+|:----|
+| **Detalle:** Los tópicos están clasificados por temas para que los usuarios encuentren los tópicos que mas les interesen <br> 
+|**Precondición:** <br> :closed_book: Se debe especificar en cada tópico su clasificación obligatoriamente. <br>  |
+|**Secuencia normal** <br> :one: El usuario crea un tópico  <br> :two: El usuario ingresa la clasificación (de acuerdo a la lista que se le muestra).  <br> :three: Acepta la categoría y guarda el tópico. <br>
+|**Post-condición** <br> :closed_book: El usuario publica un tópico.<br>
+|**Excepciones** <br> :one: El tópico no es publicado :two: El tópico no se guardo correctamente. <br>|
+
+|📁 **Requisito RFN-07: Tópicos del usuario**  |
+|:----|
+| **Detalle:** Los usuarios tendrán una sección en el menú para acceder a sus tópicos publicados con anterioridad. <br> 
+|**Precondición:** <br> :closed_book: El usuario debe ingresar al menú "Tus tópicos" previamente para acceder a esta funcionalidad. <br>  |
+|**Secuencia normal** <br> :one: Se debe hacer clic al botón "Tus tópicos"<br> :two:Se muestra una lista de los tópicos publicados por ese usuario.  <br> :three: Se selecciona uno de los tópicos <br> :four: Se muestra el tópico seleccionado. <br>
+|**Post-condición** <br> :closed_book: El usuario puede elegir mas tópicos para visualizar o acceder a otra funcionalidad del menú. <br>
+|**Excepciones** <br> :one: Los tópicos mostrados deben ser solamente los publicados por el usuario que ha iniciado sesión. <br>|
+
+|📁 **Requisito RFN-08: Exportación de datos**  |
+|:----|
+| **Detalle:**  El usuario será capaz de descargar archivos multimedia de los tópicos <br> 
+|**Precondición:** <br> :closed_book: El usuario debe haber accedido a un tópico pre-publicado <br>  |
+|**Secuencia normal** <br> :one: Se debe hacer una búsqueda de un tópico <br> :two: Se selecciona un tópico <br> :three: Se selecciona uno de los archivos multimedia del tópico <br> :four: Se presiona el botón "descargar" y este comenzará a descargarse. <br>
+|**Post-condición** <br> :closed_book: El usuario procede a descargar el contenido multimedia <br>
+|**Excepciones** <br> :one: El servidor no cuente con el archivo solicitado en ese momento <br>|
+
+|📁 **Requisito RFN-09: Análisis de datos**  |
+|:----|
+| **Detalle:** El sistema debe ser capaz de realizar un análisis de popularidad de los tópicos. <br> 
+|**Precondición:** <br> :closed_book: El usuario debe haber accedido en modo administrador <br>  |
+|**Secuencia normal** <br> :one: El administrador ingresa sus credenciales <br> :two: Se muestra el panel de administrador <br> :three: Se visualiza el progreso del sitio y de los tópicos populares. <br>
+|**Post-condición** <br> :closed_book: El sistema arroja datos de forma sencilla y entendible para el administrador. <br>
+|**Excepciones** <br> :one: Las credenciales del usuario no cuenta con los permisos para realizar esta acción. <br> :two: El sistema mostrará un mensaje informando que no se puede acceder a esos datos. <br>|
+
+|📁 **Requisito RFN-10: Aprobación de Tópicos**  |
+|:----|
+| **Detalle:** Solo los Administradores son capaces de aprobar los tópicos para su publicación <br> 
+|**Precondición:** <br> :closed_book: El tópico tiene que estar bien estructurado tratar acerca de un tema que aporte al giro de la empresa y no entrar en conflicto con los términos y condiciones de uso <br>  |
+|**Secuencia normal** <br> :one: El tópico que es públicado es puesto en espera de aprobación. <br> :two: El administrador revisa el tópico y lo autoriza <br> :three: El tópico es publicado. <br>
+|**Post-condición** <br> :closed_book: El sistema notifica al usuario que ha sido aprobado y publicado. <br>
+|**Excepciones** <br> :one: El tópico infringe las normas del sitio y no se publica. <br> :two: En caso de que el administrador no este disponible se manda a proceso de espera <br>|
