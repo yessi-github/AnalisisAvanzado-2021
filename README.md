@@ -34,7 +34,7 @@
 :pushpin:[C2.1_Especificación de Requerimientos Funcionales](BLOGs/C2.1.md)  
 :pushpin:[A2.1_Especificación de requisitos y documentación](PDFs/A2.1_Requirements_Specification_and_documentation_YessicaOrihuela.pdf)  
 :pushpin:[A2.2 Diseño de la arquitectura 4+1](BLOGs/A2.2_Architecture_design.md)  
-
+:pushpin:[A2.3 Patrones de arquitectura de software](BLOGs/A2.3_Software_ArchitecturePatterns.md) 
 
 ## :file_folder: Unidad 3 
 
