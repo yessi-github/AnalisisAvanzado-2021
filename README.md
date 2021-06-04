@@ -37,7 +37,7 @@
 :pushpin:[A2.3 Patrones de arquitectura de software](PDFs/A2.3_Software_ArchitecturePatterns_YessicaOrihuela.pdf)  
 
 ## :file_folder: Unidad 3 
-:pushpin:[A3.1 Patrones de arquitectura de software](BLOGs/A3.1_Scrum_Initiation_phase.md)
+:pushpin:[A3.1 Fase inicio Scrum: Declaracion de vision del proyecto](BLOGs/A3.1_Scrum_Initiation_phase.md)
 
 ## :file_folder: Unidad 4 
 
