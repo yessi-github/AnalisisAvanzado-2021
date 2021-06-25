@@ -39,7 +39,7 @@
 ## :file_folder: Unidad 3 
 :pushpin:[A3.1 Fase inicio Scrum: Declaracion de vision del proyecto](BLOGs/A3.1_Scrum_Initiation_phase.md)  
 :pushpin:[A3.2 Fase inicio: Artefactos](BLOGs/A3.2-Start-Phase-and-your-artifact.md)  
-:pushpin:[A3.3 Arquitectura con Modelo C4](BLOGs/A3.3_Architecture_C4_Model.md)
+:pushpin:[A3.3 Arquitectura con Modelo C4](BLOGs/A3.3_Architecture_C4_Model.md)  
 :pushpin:[A3.4 Fase planificacion y estimacion: Artefactos](BLOGs/A3.4_Scrum_Artifacts_Planning_Estimation.md)
 
 ## :file_folder: Unidad 4 
